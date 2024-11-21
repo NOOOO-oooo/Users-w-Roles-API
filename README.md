@@ -8,5 +8,5 @@ Languages and dependencies, db used:
 -Prisma ORM
 -jsonwebtoken
 -bcrypt
--prisma Client
+-prisma Client.
 
